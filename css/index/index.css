@@ -1,0 +1,42 @@
+.title {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.title img {
+    width: 30px;
+    height: 30px;
+}
+
+h1 {
+    padding: 10.3px;
+    font-size: 50px;
+    
+}
+
+.basic {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    padding: 14.6px;
+    font-size: 60px;
+}
+
+.home {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    padding: 14.6px;
+    font-size: 30px;
+}
+
